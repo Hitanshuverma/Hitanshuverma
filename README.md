@@ -12,9 +12,6 @@
 <a href="https://www.codechef.com/users/hitanshu_verma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hitanshu_verma" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hitanshuverma&show_icons=true&locale=en" alt="Hitanshuverma" /></p>
-
-
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Hitanshuverma&show_icons=true&locale=en&layout=compact&theme=dark" alt="Hitanshuverma" /></p>
 
 

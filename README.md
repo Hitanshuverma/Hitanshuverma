@@ -3,7 +3,7 @@
 
 - I’m currently learning **Flutter,React-Native,Firebase and DSA**
 
-- Reach me at: **hatts@2001@gmail.com**
+- Reach me at: **hatts2001@gmail.com**
 
 <h3 align="left">Contact me :</h3>
 <p align="left">
